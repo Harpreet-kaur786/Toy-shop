@@ -1,17 +1,17 @@
-Project Name: ToyLand (or your preferred project name)
+Project Name: ToyLand 
+
 Description:
 A visually appealing, mobile-responsive toy website built using HTML and CSS. Designed with a focus on user experience, the site showcases various toy categories with an intuitive and playful interface, making it easy for users to explore different toys on mobile devices.
+
 Features:
-Fully mobile-responsive layout
-Clean and modern UI design
-Categorized toy listings
-Smooth navigation and interactive elements
-Lightweight and fast-loading
+1. Fully mobile-responsive layout
+2. Clean and modern UI design
+3. Categorized toy listings
+4. Smooth navigation and interactive elements
+5. Lightweight and fast-loading
 Technologies Used:
-HTML5
-CSS3
-Responsive design techniques
-Future Improvements:
-Add JavaScript for interactivity (search, filters, carousel)
-Connect to a database for dynamic product listings
-Implement user authentication and a shopping cart
+1. HTML5
+2. CSS3
+3. Responsive design techniques
+4. Future Improvements:
+
